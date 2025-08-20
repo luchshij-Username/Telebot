@@ -1,0 +1,5 @@
+0 sunny
+1 cloudy
+2 lightning
+3 rain
+4 snow
