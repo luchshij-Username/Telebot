@@ -7,4 +7,4 @@ this is a code for an bot on Russian
 удачи!
 
 скриншот бота:
-![Alt Text](Screenshot 2025-08-20 112704.png)
+![Alt Text](https://github.com/luchshij-Username/Telebot/blob/main/Screenshot%202025-08-20%20112704.png)
